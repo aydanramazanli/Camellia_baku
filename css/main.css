@@ -1219,7 +1219,7 @@ button:focus {
   ========================================================================== */
 
 #contact {
-    background: url(/img/dizayn2.png) fixed no-repeat;
+    background: url(../img/dizayn2.png) fixed no-repeat;
     background-size: cover;
     overflow: hidden;
     position: relative;
